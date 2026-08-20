@@ -44,13 +44,13 @@
 
 ### 🎨 Пример №1
 
-<img src="https://private-user-images.githubusercontent.com/291216020/630290878-0f8422f2-1cf9-41ee-891c-0bf8fe68302b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODcyMTcyMTIsIm5iZiI6MTc4NzIxNjkxMiwicGF0aCI6Ii8yOTEyMTYwMjAvNjMwMjkwODc4LTBmODQyMmYyLTFjZjktNDFlZS04OTFjLTBiZjhmZTY4MzAyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgyMFQwOTA4MzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZGQwN2RlYzExZTYwZjBjYzcwZmQ3M2NlNGEyYzBhYTk0MjRmMzY0MmIyYjFjMDA0ZmZkYzk5MDJmMjQyZTNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.FArOqUEZtDPy-jneMCiDj_x-xeY3C0z7cWnz7MOBf8I" width="80%" alt="Skin Preview">
+<img src="https://cdn.phototourl.com/free/2026-08-20-28ba29c1-abde-4a14-8c6e-990ddd2991b9.jpg" width="80%" alt="Skin Preview">
 
 <br><br>
 
 ### 🔥 Пример №2
 
-<img src="ССЫЛКА_НА_ВТОРУЮ_ФОТОГРАФИЮ" width="80%" alt="Skin Preview">
+<img src="https://cdn.phototourl.com/free/2026-08-20-fc872318-91e2-4620-ada8-2cdae83fd06b.jpg" width="80%" alt="Skin Preview">
 
 <br><br>
 

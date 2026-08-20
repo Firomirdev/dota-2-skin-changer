@@ -56,7 +56,7 @@
 
 ### ⚡ Пример №3
 
-<img src="ССЫЛКА_НА_ТРЕТЬЮ_ФОТОГРАФИЮ" width="80%" alt="Skin Preview">
+<img src="https://cdn.phototourl.com/free/2026-08-20-7d28741c-a874-446c-b46d-8bd7f2feef39.jpg" width="80%" alt="Skin Preview">
 
 </div>
 

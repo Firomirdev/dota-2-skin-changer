@@ -50,7 +50,7 @@
 
 🔥 Пример №2
 
-<img src="https://cdn.phototourl.com/free/2026-08-20-28ba29c1-abde-4a14-8c6e-990ddd2991b9.jpg" width="80%" alt="Skin Preview">
+<img src="https://cdn.phototourl.com/free/2026-08-20-3f83bdb4-7432-4e4d-8999-52bc56a68a38.jpg" width="80%" alt="Skin Preview">
 
 <br><br>
 

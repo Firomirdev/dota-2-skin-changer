@@ -48,9 +48,9 @@
 
 <br><br>
 
-### 🔥 Пример №2
+🔥 Пример №2
 
-<img src="https://cdn.phototourl.com/free/2026-08-20-fc872318-91e2-4620-ada8-2cdae83fd06b.jpg" width="80%" alt="Skin Preview">
+<img src="https://cdn.phototourl.com/free/2026-08-20-28ba29c1-abde-4a14-8c6e-990ddd2991b9.jpg" width="80%" alt="Skin Preview">
 
 <br><br>
 
